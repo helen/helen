@@ -1,5 +1,7 @@
 ![Welcome to my GitHub](https://github.com/helen/helen/blob/trunk/welcome.gif)
 
+making changes on mobile
+
 <!--
 **helen/helen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
